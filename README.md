@@ -47,4 +47,4 @@ We first drop all bad data points. Then add a year_percent column where `df['yea
 The % data drops to 0 when low inventory occurs. There exists good 2018 data where 2019 drops to 0. Likewise, 2019 has good data when 2018 drops to 0 later on. With our approach, we obtain an aggregate graph with good data throughout the year.
 
 # Results
-Coming Soon!
+They appear great, now we need a way to display them on this README.
